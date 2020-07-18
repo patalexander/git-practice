@@ -9,6 +9,11 @@
 - git config: Set or get configuration
 - git log: Show history of project commits
 
+- git remote add <remote> <url> Add a new <remote> at <url>
+- git remote -v: List remote repositories
+- git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for branch
+  
+
 ## Commit messages
 
 Default editor is vim (this can be changed)
