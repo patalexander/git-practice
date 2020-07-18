@@ -18,9 +18,7 @@ Default editor is vim (this can be changed)
   Or use 'git commit -m "<message"'
 
   - First line should be clear, accurate, and concise
-  - Use proper grammar and punctuation
+  - Use proper spelling, grammar and punctuation
   - Don't end with a '.'
 
   for more advise, see https://chris.beams.io./posts/git-commit/
-
-  
