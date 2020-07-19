@@ -9,9 +9,10 @@
 - git config: Set or get configuration
 - git log: Show history of project commits
 
-- git remote add <remote> <url>: Add a new <remote> at <url>
+- git remote add '<remote>' '<url>': Add a new <remote> at <url>
 - git remote -v: List remote repositories
 - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for branch
+- git fetch: Fetch changes from remote repository 
   
 
 ## Commit messages
@@ -20,7 +21,7 @@ Default editor is vim (this can be changed)
   - 'i' to enter *insert* mode
   - Type commit message
   - 'Esc' -> 'wq' -> 'Enter' to write message and quit
-  Or use 'git commit -m "<message"'
+  Or use git commit -m "<message>"
 
   - First line should be clear, accurate, and concise
   - Use proper spelling, grammar and punctuation
